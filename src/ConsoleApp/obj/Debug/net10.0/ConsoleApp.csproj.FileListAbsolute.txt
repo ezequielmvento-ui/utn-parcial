@@ -1,0 +1,14 @@
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\mvento\Documents\facultad\programacion_2\parcial_programacion_2\src\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll

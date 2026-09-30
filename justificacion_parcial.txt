@@ -1,0 +1,14 @@
+Definiciones del diagrama de clases:
+
+Clases: biblioteca, material y socio
+
+Herencia: utilice la herencia simple con la clase material ya que libros, audiovisual y revista comparten los atributos titulo, año, autor y codigo. 
+La clase padre la declare abstracta porque se instancian las hijas.
+Declare el metodo Retiro() como abstracto para que cada clase hija lo implemente
+
+Composicion: genere una relacion de composicion entre material y biblioteca y socio y biblioteca porque dicha clase se compone de materiales y socios
+
+Colecciones: para materiales use dictionary porque el ejercicio pide una busqueda rapida ante una pregunta por codigo (key) en el metodo Consulta de mostrador.
+Para Espera tambien use dictionary con la key dni y value nombre del socios y para Material prestado tan solo use una lista guardando los titulos de los materiales por simpleza.
+
+Para los tipos de multas se podria haber aplicado un enum dependiendo el tipo de material
